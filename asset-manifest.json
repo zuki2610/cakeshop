@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cakeshop/static/css/main.2efd9e3d.css",
+    "main.js": "/cakeshop/static/js/main.f7b24b48.js",
+    "index.html": "/cakeshop/index.html",
+    "main.2efd9e3d.css.map": "/cakeshop/static/css/main.2efd9e3d.css.map",
+    "main.f7b24b48.js.map": "/cakeshop/static/js/main.f7b24b48.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2efd9e3d.css",
+    "static/js/main.f7b24b48.js"
+  ]
+}
