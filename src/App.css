@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+.tarta {
+  font-size: 100px;
+}
+
+.form-custom {
+  width: 65%;
+}
+
+@media (max-width: 750px) {
+  .form-custom {
+    width: 100%;
+  }
+}
